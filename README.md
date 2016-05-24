@@ -33,5 +33,7 @@ contract vs variable contract premium. Or other values declared private) **
 
 **- function updatePrice(uint cPremium, uint iValue) :** only the issuer can update the contract premium and Index Value. Usually at the same time.
 
+**- function buyCertificate(uint cPremium) :**  the Buyer agrees to the contract, here by paying the Contract Premium. The out come of this is that Issuer gets the Premium immediately.
+
 
 
