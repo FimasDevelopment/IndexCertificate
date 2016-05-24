@@ -23,3 +23,7 @@ The contract source code, IndexCertificate, is written in Solidity, Ethereum's l
 **- address Issuer :**  address of the issuer, will be  determined and set automatically 
 
 **- address Buyer :**  address of the buyer,  will be determined and set automatically 
+
+** - function initiateCertificate(bool bLong, string uName, uint iStrike, uint cPremium, uint iValue, uint pAmount) **
+Initialize of the Contract with the basis information. ContractPrice should be separate from the rest (constant and immutable contract vs variable contract premium. Or other values declared private)
+
