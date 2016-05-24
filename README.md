@@ -28,3 +28,6 @@ The contract source code, IndexCertificate, is written in Solidity, Ethereum's l
 Initialize of the Contract with the basis information. ContractPrice should be separate from the rest (constant and immutable
 contract vs variable contract premium. Or other values declared private) **
 
+**-  function buyCertificate(uint cPremium):** The Buyer enters into the contract here by paying the Contract Premium.
+	Tthe Issuer gets the Premium immediately.
+
