@@ -10,16 +10,16 @@ The contract source code, IndexCertificate, is written in Solidity, Ethereum's l
 
 **string UnderlyingName :** Underlying Index Reference 
 
-bool BuyerLong :  Long or short position of the Buyer  
+**bool BuyerLong :**  Long or short position of the Buyer  
 
-uint IndexStrike :  Strike Price  
+**uint IndexStrike :**  Strike Price  
 
-uint PayAmount :  Reward, if Strike is reached. Could also be a formula, etc.  
+**uint PayAmount :**  Reward, if Strike is reached. Could also be a formula, etc.  
 
-uint ContractPremium :  Premium to be paid by the buyer  
+**uint ContractPremium :**  Premium to be paid by the buyer  
 
-uint IndexValue :  Actual index value   
+**uint IndexValue :**  Actual index value   
 
-address Issuer :  address of the issuer, will be  determined and set automatically 
+**address Issuer :**  address of the issuer, will be  determined and set automatically 
 
-address Buyer :  address of the buyer,  will be determined and set automatically 
+**address Buyer :**  address of the buyer,  will be determined and set automatically 
