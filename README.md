@@ -29,5 +29,5 @@ Initialize of the Contract with the basis information. ContractPrice should be s
 contract vs variable contract premium. Or other values declared private) **
 
 **-  function buyCertificate(uint cPremium):** The Buyer enters into the contract here by paying the Contract Premium.
-	Tthe Issuer gets the Premium immediately.
+	The Issuer gets the Premium immediately.
 
