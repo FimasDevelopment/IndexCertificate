@@ -31,3 +31,7 @@ contract vs variable contract premium. Or other values declared private) **
 **-  function buyCertificate(uint cPremium):** The Buyer enters into the contract here by paying the Contract Premium.
 	The Issuer gets the Premium immediately.
 
+**- function updatePrice(uint cPremium, uint iValue) :** only the issuer can update the contract premium and Index Value. Usually at the same time.
+
+
+
