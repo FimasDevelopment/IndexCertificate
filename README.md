@@ -8,7 +8,7 @@ The contract source code, IndexCertificate, is written in Solidity, Ethereum's l
 
 #Smart contract structure
 
-string UnderlyingName : Underlying Index Reference 
+**string UnderlyingName :** Underlying Index Reference 
 
 bool BuyerLong :  Long or short position of the Buyer  
 
