@@ -6,7 +6,7 @@ IndexCertificate is a trading function which allows the issuer to setup up new i
 
 The contract source code, IndexCertificate, is written in Solidity, Ethereum's language for constructing smart contracts.
 
-Smart contract structure
+#Smart contract structure
 
 string UnderlyingName : Underlying Index Reference 
 
