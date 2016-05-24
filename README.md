@@ -37,7 +37,7 @@ contract vs variable contract premium. Or other values declared private) **
 
 #sample case
 
-#license information
+#License information
 
 
 
