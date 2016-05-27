@@ -35,7 +35,6 @@ contract vs variable contract premium. Or other values declared private) **
 
 **- function buyCertificate(uint cPremium) :**  the Buyer agrees to the contract, here by paying the Contract Premium. The out come of this is that Issuer gets the Premium immediately.
 
-#sample case
 
 #License information
 
