@@ -31,7 +31,7 @@ The contract source code, IndexCertificate, is written in Solidity, which is a p
 initialization of the Contract with the basis information. ContractPrice should be separate from the rest (constant and immutable
 contract vs variable contract premium. Or other values declared private) **
 
-**-  function buyCertificate(uint cPremium):** The Buyer enters into the contract here by paying the Contract Premium.
+**-  function buyCertificate(uint cPremium):** The Buyer enters into the contract, here by paying the Contract Premium.
 The Issuer gets the Premium immediately.
 
 **- function updatePrice(uint cPremium, uint iValue) :** only the issuer can update the contract premium and Index Value. Usually at the same time.
