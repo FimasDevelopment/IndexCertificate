@@ -7,7 +7,7 @@ The whole emission process inclusively the processing can be significant eased b
 
 #Smart contract 
 
-The contract source code, IndexCertificate, is written in Solidity, Ethereum's language for constructing smart contracts.
+The contract source code, IndexCertificate, is written in Solidity, which is a programming language to setup smart contracts easily.
 
 #Smart contract structure
 
