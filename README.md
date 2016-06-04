@@ -65,7 +65,7 @@ The emitter (bank xy) issues an index certificate with an endless lifespan. The 
 **Permanently or on daily basis the certificate has to be rated by serving the following values.** 
 
 - Strike price on the validation day multiplied by exchange ratio **(cPremium) – 10400,46 * 0,01 = 104,46** 
-- Strike price of the current index value **(iValue) – 10400,46 ** 
+- Strike price of the current index value **(iValue) – 10400,46** 
 
 
 #License information
