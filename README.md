@@ -36,7 +36,7 @@ The Issuer gets the Premium immediately.
 
 **- function updatePrice(uint cPremium, uint iValue) :** only the issuer can update the contract premium and Index Value. Usually at the same time.
 
-#sample Case
+#Sample Case
 
 Emission of an index certificate for the DAX (Deutsche Aktienindex) 
 
