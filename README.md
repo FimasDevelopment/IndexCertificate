@@ -1,6 +1,6 @@
 # IndexCertificate
 
-IndexCertificate is a trading function which allows the issuer to setup up new index certificates. Potential buyers have the possibility to take part on the action of the certificate by using the platform which refers to the contract of the index certificate. 
+IndexCertificate is a trading function which allows the issuer to setup up new index certificates. Potential buyers have the possibility to take part on the auction of the certificate by using the platform which refers to the contract of the index certificate. 
 
 The whole emission process inclusively the processing can be significant eased by simply using the smart contacts of the block chain technology. All in all, many functional process steps could be omitted by using the mentioned bock chain functions and as a result of this, the market of the certificates could be revolutionized as well and the profit margin
 
