@@ -37,15 +37,15 @@ The Issuer gets the Premium immediately.
 
 #Sample Case
 
-Emission of an index certificate for the DAX (Deutsche Aktienindex) 
+Issuance of an index certificate for the DAX (Deutscher Aktienindex)
 
-The emitter (bank xy) issues an index certificate with an endless lifespan. The mentioned index certificate represents the performance of the DAX over a period of time.  
+The issuer (bank xy) issues an index certificate with an endless lifespan. The mentioned index certificate represents the performance of the DAX over a period of time.  
 
 **After the Contract has been created respectively issued the certificate have to be initialized with the following values by using the contract functions initialize contract.**
 
  - Index name or abbreviation **(uName) – DAX** 
  
- - Strike price on the emission day **(iStrike) – 10302,46** 
+ - Strike price on the issuance day **(iStrike) – 10302,46** 
  
  - Strike price on the validation day multiplied by exchange ratio **(cPremium) – 10302,46 * 0,01 = 103,46** 
  
@@ -69,7 +69,7 @@ The emitter (bank xy) issues an index certificate with an endless lifespan. The 
 
 #License information
 
-Copyright (c) 2016 Fimas Market Solution
+Copyright (c) 2016 Fimas - Financial Market Solutions
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
