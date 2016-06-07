@@ -1,8 +1,7 @@
-# IndexCertificate
+# Ethereum Solidity based Index Certificate
 
-IndexCertificate is a trading function which allows the issuer to setup up new index certificates. Potential buyers have the possibility to take part on the auction of the certificate by using the platform which refers to the contract of the index certificate. 
-
-The whole emission process inclusively the processing can be significant eased by simply using the smart contacts of the block chain technology. All in all, many functional process steps could be omitted by using the mentioned bock chain functions and as a result of this, the market of the certificates could be revolutionized as well and the profit margin
+An Index-Certificate is a financial instrument which allows you to invest in the market performance of an equity index. The blockchain technology allows issuers of certificates to setup up new index certificates on a platform in a very easy, cheap and fast manner. Potential buyers of a index certificate have the possibility to take part on the auction of the certificate by using the platform which refers to the contract of the index certificate.
+The whole issuance process inclusively the processing can be significant eased by simply using the smart contacts of the block chain technology. All in all, many functional process steps could be avoided by using the mentioned bock chain functions. As a result, the market of the certificates could be revolutionized and profit margins would increase significantly
 
 
 #Smart contract 
