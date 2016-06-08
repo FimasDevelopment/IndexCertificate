@@ -47,7 +47,7 @@ The issuer (bank xy) issues an index certificate with an endless lifespan. The m
  
  - Strike price on the issuance day **(iStrike) – 10302,46** 
  
- - Strike price on the validation day multiplied by exchange ratio **(cPremium) – 10302,46 * 0,01 = 103,46** 
+ - Strike price on the validation day multiplied by exchange ratio **(cPremium) – 10302,46 * 0,01 = 103,0046** 
  
  - Strike price of the current index value **(iValue) – 10298,28**
  
@@ -58,12 +58,12 @@ The issuer (bank xy) issues an index certificate with an endless lifespan. The m
 
 **The potential buyer is using the contract function ‘buy contract’ to buy the index certificate. Therefore the following values have to be served.**
 
-- Strike price on the validation day multiplied by exchange ratio **(cPremium) – 10302,46 * 0,01 = 103,46**
-- Total amount Amount **(Amount) – cValue multiplied by quantity 103,46 * 100 = 103646** 
+- Strike price on the validation day multiplied by exchange ratio **(cPremium) – 10302,46 * 0,01 = 103,0246**
+- Total amount Amount **(Amount) – cValue multiplied by quantity 103,46 * 100 = 10346** 
 
 **Permanently or on daily basis the certificate has to be rated by serving the following values.** 
 
-- Strike price on the validation day multiplied by exchange ratio **(cPremium) – 10400,46 * 0,01 = 104,46** 
+- Strike price on the validation day multiplied by exchange ratio **(cPremium) – 10400,46 * 0,01 = 104,0046** 
 - Strike price of the current index value **(iValue) – 10400,46** 
 
 
