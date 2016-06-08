@@ -49,7 +49,7 @@ The issuer (bank xy) issues an index certificate with an endless lifespan. The m
  
  - Strike price on the validation day multiplied by exchange ratio **(cPremium) – 10302,46 * 0,01 = 103,0246** 
  
- - Total amount Amount **(Amount) – cValue multiplied by quantity – 10302,46 * 100 = 10302,46** 
+ - Total amount Amount **(Amount) – cValue multiplied by quantity – 103,0246 * 100 = 10302,46** 
 
 
 **The potential buyer is using the contract function ‘buy contract’ to buy the index certificate. Therefore the following values have to be served.**
